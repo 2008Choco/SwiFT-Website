@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
 
+import NavBar from "./components/NavBar";
+
 export default function() {
   return (
-    <div className="App">
-      <h1>SwiFT Freestyling</h1>
-    </div>
+    <NavBar/>
   );
 }

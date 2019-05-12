@@ -1,0 +1,32 @@
+#nav-wrapper {
+    width: 100%;
+}
+
+ul.nav {
+    overflow: hidden;
+    list-style: none;
+    padding: 3em;
+    position: relative;
+    margin: 0 8em;
+}
+
+li {
+    margin: 0 1em;
+}
+
+li.left {
+    float: left;
+}
+
+li.right {
+    float: right;
+}
+
+li a {
+    text-decoration: none;
+    color: gray;
+}
+
+li a:hover {
+    color: rgb(90, 90, 90);
+}
