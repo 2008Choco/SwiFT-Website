@@ -1,32 +1,55 @@
 #nav-wrapper {
     width: 100%;
-}
-
-ul.nav {
-    overflow: hidden;
-    list-style: none;
-    padding: 3em;
-    position: relative;
-    margin: 0 8em;
+    height: 8em;
+    display: flex;
 }
 
 li {
     margin: 0 1em;
 }
 
-li.left {
+#swift-logo {
+    flex-grow: 1;
+    margin: auto;
+    max-width: 64px;
+}
+
+.nav {
+    flex-grow: 2;
+    margin: auto;
+}
+
+.nav ul {
+    list-style: none;
+}
+
+.nav#left ul {
+    margin: auto, 0, auto, 8em;
+    padding-left: 7em;
+}
+
+.nav#right ul {
+    margin: auto, 8em, auto, 0;
+    padding-right: 7em;
+}
+
+.nav#left li {
     float: left;
 }
 
-li.right {
+.nav#right li {
     float: right;
 }
 
-li a {
+.nav#left, .nav#right, #swift-logo {
+    float: left;
+}
+
+.nav li a {
     text-decoration: none;
     color: gray;
 }
 
-li a:hover {
+.nav li a:hover {
     color: rgb(50, 50, 50);
 }

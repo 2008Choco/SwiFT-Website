@@ -3,24 +3,32 @@ import NavBarElement from './NavBarElement';
 
 import '../styles/nav.css'
 
+const logo = require("../assets/swift-logo.png");
+
 export default class NavBar extends Component {
   render() {
     return (
       <div id="nav-wrapper">
-        <ul className="nav">
-          <li className="left"><NavBarElement name="Home"/></li>
-          <li className="left"><NavBarElement name="Recruitment"/></li>
-          <li className="left"><NavBarElement name="News"/></li>
-          <li className="left"><NavBarElement name="Roster"/></li>
+        <div className="nav" id="left">
+          <ul>
+            <li><NavBarElement name="Home"/></li>
+            <li><NavBarElement name="Recruitment"/></li>
+            <li><NavBarElement name="News"/></li>
+            <li><NavBarElement name="Roster"/></li>
+          </ul>
+        </div>
 
-          <li className="right"><NavBarElement name="Merchandise"/></li>
-          <li className="right"><NavBarElement name="About"/></li>
-          <li className="right"><NavBarElement name="Contact"/></li>
-          <li className="right"><NavBarElement name="Media"/></li>
-        </ul>
+        <img src={logo} alt="SwiFT Logo" id="swift-logo"/>
+        
+        <div className="nav" id="right">
+          <ul>
+            <li><NavBarElement name="Merchandise"/></li>
+            <li><NavBarElement name="About"/></li>
+            <li><NavBarElement name="Contact"/></li>
+            <li><NavBarElement name="Media"/></li>
+          </ul>
+        </div>
       </div>
     )
   }
 }
-
-// TODO: Add "SwiFT" logo between Roster and Merchandise routing link

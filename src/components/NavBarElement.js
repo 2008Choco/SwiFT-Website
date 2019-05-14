@@ -8,7 +8,7 @@ export default class NavBarElement extends Component {
 
   render() {
     return (
-      <a href="#">{this.props.name}</a>
+      <a href="/">{this.props.name}</a>
     )
   }
 }
