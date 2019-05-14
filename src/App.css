@@ -5,6 +5,8 @@
 }
 
 body {
+    overflow: hidden;
     font: 16px 'Lato', sans-serif;
     font-weight: bold;
+    margin: 0 16em;
 }

@@ -21,16 +21,7 @@ li {
 
 .nav ul {
     list-style: none;
-}
-
-.nav#left ul {
-    margin: auto, 0, auto, 8em;
-    padding-left: 7em;
-}
-
-.nav#right ul {
-    margin: auto, 8em, auto, 0;
-    padding-right: 7em;
+    margin: auto 0;
 }
 
 .nav#left li {
