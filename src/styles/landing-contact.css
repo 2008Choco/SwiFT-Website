@@ -29,3 +29,12 @@
     color: white;
     word-spacing: 10px;
 }
+
+.contact-container input[type=submit]:hover {
+    background-color: rgb(3, 143, 103);
+    cursor: pointer;
+}
+
+.contact-container input[type=submit]:active {
+    background-color: rgb(3, 119, 86);
+}
