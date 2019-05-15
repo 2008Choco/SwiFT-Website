@@ -1,15 +1,11 @@
 import React, { Component } from 'react'
-import './App.css';
-import './styles/landing-contact.css';
 
-import NavBar from "./components/NavBar";
+import '../styles/Home.css';
+import '../styles/landing-contact.css';
 
-export default class App extends Component {
+export default class Home extends Component {
   render() {
     return (
-      <React.Fragment>
-        <NavBar/>
-
         <div className="front">
           <div className="body-text">
             <p id="header">Team SwiFT</p>
@@ -25,7 +21,6 @@ export default class App extends Component {
             </form>
           </div>
         </div>
-      </React.Fragment>
     );
   };
 }

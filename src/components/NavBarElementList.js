@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
+import { NavLink } from 'react-router-dom';
 
 export default class NavBarElementList extends Component {
   static propTypes = {
@@ -8,7 +9,7 @@ export default class NavBarElementList extends Component {
   }
 
   render() {
-    var listItems = this.props.elements.map((element, i) => <li><a href="/">{element}</a></li>);
+    var listItems = this.props.elements.map((element, i) => <li><NavLink to={element.toLowerCase()}>{element}</NavLink></li>);
 
     return (
       <div className="nav" id={this.props.side}>
