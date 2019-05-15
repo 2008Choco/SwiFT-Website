@@ -11,13 +11,14 @@ This project is created using [ReactJS](https://reactjs.org) (front-end) and [Ex
 If you're interested in viewing the website locally, due to the framework used, it's not as easy as opening the `index.html` and expecting a copy of the website in your browser. Instead, you must use the build scripts provided by the ReactJS framework.
 
 To run the website locally, follow the steps below:
-- Install [Git](https://git-scm.com/) and [Node Package Manager (NPM)](https://npmjs.com)
-- Create a new directory/folder. This will be the root directory of the website.
-  - The directory name should contain no spaces, upper-case or special characters. It is recommended this be named `swift_website`
-- Open the terminal (Git Bash for Windows users) in the website directory and clone the GitHub repository using git, `git clone https://github.com/2008Choco/SwiFT-Website.git`
+- Install [Git](https://git-scm.com) and [NodeJS/Node Package Manager (NPM)](https://nodejs.org)
+- Open the terminal (Git Bash for Windows users) in directory of your choosing (or on your Desktop) and clone the GitHub repository using git, `git clone https://github.com/2008Choco/SwiFT-Website.git`
+- A folder will be created in the directory where the command was run
+  - If any updates are made on git, you may pull these changes from GitHub using `git pull`
+- Change directories from the command line using `cd Swift-Website` (or whatever folder was downloaded from the git clone)
 - Be sure you're on the branch you wish to run locally, either `master` or `dev`.
-  - By default, you will be on `master`, but you may switch with `git checkout dev`
-- Open a command line terminal in the root website directory and, using NPM, run `npm install` to install all dependencies
+  - By default, you will be on `master`, but you may wish switch with `git checkout dev`
+- Using NPM, run `npm install` to install all dependencies. This process may take a few minutes as there are a lot of dependencies.
 - Once all dependencies are installed, run `npm start` to start a local development server. Your browser will be opened to localhost on port 3000
   - See "Available Scripts" -> `npm start` for more information on the start script
 
