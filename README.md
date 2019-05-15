@@ -17,7 +17,7 @@ To run the website locally, follow the steps below:
   - If any updates are made on git, you may pull these changes from GitHub using `git pull`
 - Change directories from the command line using `cd Swift-Website` (or whatever folder was downloaded from the git clone)
 - Be sure you're on the branch you wish to run locally, either `master` or `dev`.
-  - By default, you will be on `master`, but you may wish switch with `git checkout dev`
+  - By default, you will be on `master`, but you may wish to switch with `git checkout dev`
 - Using NPM, run `npm install` to install all dependencies. This process may take a few minutes as there are a lot of dependencies.
 - Once all dependencies are installed, run `npm start` to start a local development server. Your browser will be opened to localhost on port 3000
   - See "Available Scripts" -> `npm start` for more information on the start script
