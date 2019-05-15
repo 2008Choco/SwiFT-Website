@@ -9,7 +9,7 @@ export default class NavBarElementList extends Component {
   }
 
   render() {
-    var listItems = this.props.elements.map((element, i) => <li><NavLink to={element.toLowerCase()}>{element}</NavLink></li>);
+    var listItems = this.props.elements.map((element, i) => <li key={element}><NavLink to={element.toLowerCase()}>{element}</NavLink></li>);
 
     return (
       <div className="nav" id={this.props.side}>
