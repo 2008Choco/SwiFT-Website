@@ -8,14 +8,18 @@ li {
     margin: 0 1em;
 }
 
-.flip-container {
-    margin: 32px 0;
+.swift-logo {
+    margin: auto;
     flex-grow: 1;
+    max-width: 64px;
+    
+    perspective: 1000px;
+    transition: 2.4s;
+    transform-style: preserve-3d;
 }
 
-.flip-container, .swift-logo {
-    max-width: 64px;
-    min-width: 64px;
+.swift-logo:hover {
+    transform: rotateY(360deg);
 }
 
 .nav {
@@ -36,7 +40,7 @@ li {
     float: right;
 }
 
-.nav#left, .nav#right, #swift-logo {
+.nav#left, .nav#right, .swift-logo {
     float: left;
 }
 
