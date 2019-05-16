@@ -8,10 +8,14 @@ li {
     margin: 0 1em;
 }
 
-#swift-logo {
+.flip-container {
+    margin: 32px 0;
     flex-grow: 1;
-    margin: auto;
+}
+
+.flip-container, .swift-logo {
     max-width: 64px;
+    min-width: 64px;
 }
 
 .nav {
