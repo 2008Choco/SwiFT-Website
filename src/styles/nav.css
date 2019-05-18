@@ -8,7 +8,7 @@ li {
     margin: 0 1em;
 }
 
-.swift-logo {
+#swift-logo {
     margin: auto;
     flex-grow: 1;
     max-height: 64px;
@@ -19,8 +19,8 @@ li {
     transform-style: preserve-3d;
 }
 
-.swift-logo:hover {
-    transform: rotateY(360deg);
+#swift-logo:hover {
+    transform: rotateY(1turn);
 }
 
 .nav {
@@ -41,7 +41,7 @@ li {
     float: right;
 }
 
-.nav#left, .nav#right, .swift-logo {
+.nav#left, .nav#right, #swift-logo {
     float: left;
 }
 
