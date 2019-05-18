@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
-import '../styles/Home.css';
-import '../styles/landing-contact.css';
+import '../../styles/Home.css';
+import '../../styles/landing-contact.css';
 
 export default class Home extends Component {
   render() {

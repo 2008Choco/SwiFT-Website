@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 import NavBar from './components/NavBar';
-import Home from './components/Home';
+import Home from './components/home/Home';
 import UnknownRoute from './components/UnknownRoute';
 
 export default class Root extends Component {
