@@ -1,0 +1,554 @@
+{
+    "leaders": [
+        {
+            "lead": true,
+            "username": "Merch",
+            "name": "Artem",
+            "birthday": {
+                "date": 1,
+                "month": 2,
+                "year": 2001
+            },
+            "country": "Russia",
+            "socials": {
+                "twitter": "https://twitter.com/MerchEdits",
+                "youtube": "https://youtube.com/c/MerchEdits"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Evade",
+            "name": "Josh",
+            "birthday": {
+                "date": 25,
+                "month": 9,
+                "year": 2001
+            },
+            "country": "Great Britain",
+            "socials": {
+                "twitter": "https://twitter.com/xEvadify"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Lord",
+            "name": "",
+            "birthday": {
+                "date": 0,
+                "month": 0,
+                "year": 0
+            },
+            "country": "",
+            "socials": {
+                
+            }
+        }
+    ],
+    "freestylers": [
+        {
+            "lead": false,
+            "username": "Legend",
+            "name": "Yoran",
+            "birthday": {
+                "date": 14,
+                "month": 11,
+                "year": 2004
+            },
+            "country": "Netherlands",
+            "socials": {
+                "twitter": "https://twitter.com/Sw0FT_Legend",
+                "youtube": "https://youtube.com/channel/UCs2M4Y2wAFrGK7PXXNS9hdA"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Poyos",
+            "name": "Clément",
+            "birthday": {
+                "date": 25,
+                "month": 3,
+                "year": 2003
+            },
+            "country": "France",
+            "socials": {
+                "twitter": "https://twitter.com/PoyosRL",
+                "youtube": "https://youtube.com/channel/UCh6XhUl8xrtKyMWyoVzJBsQ"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Vince",
+            "name": "Vince",
+            "birthday": {
+                "date": 2,
+                "month": 4,
+                "year": 2002
+            },
+            "country": "France",
+            "socials": {
+                "youtube": "https://youtube.com/channel/UCfGrgXxaFZ0YpVq7OYmloVg"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Temple",
+            "name": "Ildar",
+            "birthday": {
+                "date": 31,
+                "month": 10,
+                "year": 2003
+            },
+            "country": "Russia",
+            "socials": {
+                "twitter": "https://twitter.com/halo_temple",
+                "youtube": "https://youtube.com/channel/UCkXf_RiNpdOr9C4t2JTPBzQ"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Mills",
+            "name": "Daniel",
+            "birthday": {
+                "date": 31,
+                "month": 10,
+                "year": 1997
+            },
+            "country": "Spain",
+            "socials": {
+                "youtube": "https://youtube.com/channel/UC6c-CBt4Mt2BunFScsR-m3A"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Steep",
+            "name": "Arthur",
+            "birthday": {
+                "date": 23,
+                "month": 11,
+                "year": 2002
+            },
+            "country": "France",
+            "socials": {
+                "youtube": "https://youtube.com/channel/UCB_LCXbDYC3VGGvMl5dVsRA",
+                "instagram": "https://instagram.com/Arthurrnlt"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Bimbo",
+            "name": "Bernat",
+            "birthday": {
+                "date": 0,
+                "month": 0,
+                "year": 0
+            },
+            "country": "Spain",
+            "socials": {}
+        },
+        {
+            "lead": false,
+            "username": "FlyTe",
+            "name": "Julien",
+            "birthday": {
+                "date": 9,
+                "month": 12,
+                "year": 2000
+            },
+            "country": "France",
+            "socials": {
+                "youtube": "https://youtube.com/user/juju96855"
+            }
+        }
+    ],
+    "esports": [
+        {
+            "lead": false,
+            "username": "Gerkee",
+            "name": "Germán",
+            "birthday": {
+                "date": 6,
+                "month": 6,
+                "year": 2002
+            },
+            "country": "Spain",
+            "socials": {
+                "twitter": "https://twitter.com/Gerkee_",
+                "youtube": "https://youtube.com/channel/UC-FUR2QJD-YBD9bUxnB_z6g",
+                "twitch": "https://twitch.tv/gerkee_"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Limits",
+            "name": "Mats",
+            "birthday": {
+                "date": 3,
+                "month": 4,
+                "year": 2002
+            },
+            "country": "Great Britain",
+            "socials": {
+                "twitter": "https://twitter.com/xLimitsRL"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Aellux",
+            "name": "Ron",
+            "birthday": {
+                "date": 7,
+                "month": 8,
+                "year": 2001
+            },
+            "country": "Netherlands",
+            "socials": {
+                "twitter": "https://twitter.com/Aellux_",
+                "youtube": "https://youtube.com/channel/UCEU8EghbiQOZtYEIlWGOPXA",
+                "twitch": "https://twitch.tv/aellux_"
+            }
+        }
+    ],
+    "competitive": [
+        {
+            "lead": true,
+            "username": "Karre",
+            "name": "Christoph",
+            "birthday": {
+                "date": 3,
+                "month": 7,
+                "year": 2001
+            },
+            "country": "Deutschland",
+            "socials": {
+                "twitter": "https://twitter.com/TheKarre",
+                "youtube": "https://youtube.com/channel/UCve4Nm0hYOA3-hWPg4vAtuw"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Krisic",
+            "name": "Chris",
+            "birthday": {
+                "date": 8,
+                "month": 10,
+                "year": 2001
+            },
+            "country": "Poland",
+            "socials": {
+                "twitter": "https://twitter.com/Krisiboy21",
+                "twitch": "https://twitch.tv/Krisic90"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Magiks",
+            "name": "Joel",
+            "birthday": {
+                "date": 4,
+                "month": 12,
+                "year": 2002
+            },
+            "country": "Spain",
+            "socials": {
+                "twitter": "https://twitter.com/Magiiiks",
+                "twitch": "https://twitch.tv/magiiiks"
+            }
+        },
+        {
+            "lead": false,
+            "username": "ComeBack",
+            "name": "Slava",
+            "birthday": {
+                "date": 22,
+                "month": 5,
+                "year": 2005
+            },
+            "country": "Russia",
+            "socials": {
+                "youtube": "https://youtube.com/channel/UCf_juYNk1LPBA1kmK076i2g"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Cha0s",
+            "name": "Liam",
+            "birthday": {
+                "date": 6,
+                "month": 1,
+                "year": 2000
+            },
+            "country": "Belgium",
+            "socials": {
+                "twitter": "https://twitter.com/Cha0sRL",
+                "twitch": "https://twitch.tv/cha0slive"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Jeyer",
+            "name": "Watcharin",
+            "birthday": {
+                "date": 15,
+                "month": 12,
+                "year": 2002
+            },
+            "country": "Thailand",
+            "socials": {
+                "twitter": "https://twitter.com/WatchaSd",
+                "youtube": "https://youtube.com/user/TeqnixBB2DO"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Texo",
+            "name": "Amir",
+            "birthday": {
+                "date": 31,
+                "month": 10,
+                "year": 2003
+            },
+            "country": "Switzerland",
+            "socials": {
+                "twitter": "https://twitter.com/RlTexo"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Cynical",
+            "name": "Samuel",
+            "birthday": {
+                "date": 24,
+                "month": 5,
+                "year": 2002
+            },
+            "country": "England",
+            "socials": {}
+        },
+        {
+            "lead": false,
+            "username": "Timsey",
+            "name": "Tim",
+            "birthday": {
+                "date": 7,
+                "month": 8,
+                "year": 2001
+            },
+            "country": "Netherlands",
+            "socials": {
+                "twitter": "https://twitter.com/Timsey01",
+                "youtube": "https://youtube.com/channel/UClWkgs-Y8fQkgkrF-LqTAxg",
+                "twitch": "https://twitch.tv/timsey01"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Dinouh",
+            "name": "Dino",
+            "birthday": {
+                "date": 21,
+                "month": 9,
+                "year": 1998
+            },
+            "country": "Switzerland",
+            "socials": {
+                "twitter": "https://twitter.com/DinouhRL",
+                "youtube": "https://youtube.com/channel/UCYK8N4r30e8nPymEqIPrivw"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Toavols",
+            "name": "Julio",
+            "birthday": {
+                "date": 18,
+                "month": 5,
+                "year": 2000
+            },
+            "country": "Spain",
+            "socials": {
+                "twitter": "https://twitter.com/Toavols",
+                "twitch": "https://twitch.tv/toavols",
+                "youtube": "https://youtube.com/channel/UCqVjJV2rPh3xA_5ghuTDJDw"
+            }
+        }
+    ],
+    "designers": [
+        {
+            "lead": false,
+            "username": "kainemane",
+            "name": "Artyom",
+            "birthday": {
+                "date": 0,
+                "month": 0,
+                "year": 0
+            },
+            "country": "Russia",
+            "socials": {
+                "twitter": "https://twitter.com/neverdon1"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Leardi",
+            "name": "Lucas",
+            "birthday": {
+                "date": 29,
+                "month": 12,
+                "year": 2003
+            },
+            "country": "Canada",
+            "socials": {
+                "twitter": "https://twitter.com/GfxLeardi",
+                "behance": "https://behance.net/LeardiGFX"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Splashy",
+            "name": "Artem",
+            "birthday": {
+                "date": 0,
+                "month": 0,
+                "year": 0
+            },
+            "country": "Russia",
+            "socials": {
+                "twitter": "https://twitter.com/splashygfx",
+                "behance": "https://behance.net/splashygfx"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Kalos",
+            "name": "Nicholas",
+            "country": "England",
+            "socials": {
+                "twitter": "https://twitter.com/KalosCreates"
+            }
+        }
+    ],
+    "editors": [
+        {
+            "lead": true,
+            "username": "Corokku",
+            "name": "Ignacio",
+            "birthday": {
+                "date": 27,
+                "month": 2,
+                "year": 2004
+            },
+            "country": "Argentina",
+            "socials": {
+                "twitter": "https://twitter.com/Corokku132",
+                "youtube": "https://youtube.com/channel/UCGBE75lpSHqe0noyfPYvTUQ"
+            }
+        },
+        {
+            "lead": false,
+            "username": "TriGuizz",
+            "name": "Rodrigo",
+            "birthday": {
+                "date": 11,
+                "month": 1,
+                "year": 2003
+            },
+            "country": "Brazil",
+            "socials": {
+                "twitter": "https://twitter.com/TriGuizz",
+                "youtube": "https://youtube.com/channel/UC5Q1S26eV3ivO2gmLldCN6w"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Revol",
+            "name": "Nick",
+            "birthday": {
+                "date": 15,
+                "month": 9,
+                "year": 2000
+            },
+            "country": "Greece",
+            "socials": {
+                "twitter": "https://twitter.com/revolrl",
+                "youtube": "https://youtube.com/channel/UC95gWF7aD-dP-6dAwDeauuA"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Skeleton",
+            "name": "Hafez",
+            "birthday": {
+                "date": 19,
+                "month": 2,
+                "year": 2000
+            },
+            "country": "Syria",
+            "socials": {
+                "twitter": "https://twitter.com/SkeletonRL",
+                "youtube": "https://youtube.com/SkeletonVFX"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Tornado",
+            "name": "Aidan",
+            "birthday": {
+                "date": 11,
+                "month": 9,
+                "year": 2003
+            },
+            "country": "Australia",
+            "socials": {
+                "twitter": "https://twitter.com/TornadoEditsYT",
+                "youtube": "https://youtube.com/c/TornadoEdits",
+                "twitch": "https://twitch.tv/Tornado_RL"
+            }
+        },
+        {
+            "lead": false,
+            "username": "Escape",
+            "name": "Will",
+            "birthday": {
+                "date": 7,
+                "month": 10,
+                "year": 2003
+            },
+            "country": "Australia",
+            "socials": {
+                "twitter": "https://twitter.com/VfxEscape"
+            }
+        },
+        {
+            "lead": false,
+            "username": "BoRo",
+            "name": "Matt",
+            "birthday": {
+                "date": 17,
+                "month": 11,
+                "year": 2003
+            },
+            "country": "Poland",
+            "socials": {
+                "youtube": "https://youtube.com/channel/UCJpec2HWd5xnv-FWCq-h6Yg"
+            }
+        }
+    ],
+    "developers": [
+        {
+            "lead": true,
+            "username": "Choco",
+            "name": "Parker",
+            "birthday": {
+                "date": 14,
+                "month": 10,
+                "year": 1999
+            },
+            "country": "Canada",
+            "socials": {
+                "twitter": "https://twitter.com/2008Choco_",
+                "youtube": "https://youtube.com/channel/UCw1E-xY5IgWRIW8fQDZLpYQ",
+                "twitch": "https://twitch.tv/2008Choco"
+            }
+        }
+    ]
+}
