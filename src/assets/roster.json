@@ -322,7 +322,11 @@
                 "year": 2002
             },
             "country": "England",
-            "socials": {}
+            "socials": {
+                "twitter": "https://twitter.com/CynicalSFK",
+                "youtube": "https://youtube.com/channel/UCH7ed6yQ2Q83tMuoj9y1J2w/featured",
+                "twitch": "https://twitch.tv/cynicalsfk"
+            }
         },
         {
             "lead": false,
