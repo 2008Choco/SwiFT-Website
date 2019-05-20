@@ -1,7 +1,16 @@
+/* Common */
+#nav-wrapper, #footer-wrapper {
+    display: flex;
+}
+
+.nav li a:hover, #footer-wrapper a:hover {
+    color: rgb(50, 50, 50);
+}
+
+/* Nav bar */
 #nav-wrapper {
     width: 100%;
     height: 8em;
-    display: flex;
 }
 
 li {
@@ -50,6 +59,24 @@ li {
     color: gray;
 }
 
-.nav li a:hover {
-    color: rgb(50, 50, 50);
+/* Footer */
+#footer-wrapper {
+    position: absolute;
+    margin: 1.25em auto;
+    max-width: 50%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#footer-wrapper p {
+    text-align: center;
+    color: gray;
+    font-size: 11px;
+    flex-grow: 1;
+}
+
+#footer-wrapper a {
+    text-decoration: none;
+    color: rgb(75, 75, 75);
 }

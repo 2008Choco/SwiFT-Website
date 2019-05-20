@@ -2,13 +2,13 @@
   "name": "swift_website",
   "description": "The official Team SwiFT Freestyling website",
   "version": "0.1.0",
-  "author": "Parker Hawke <hawkeboyz2@hotmail.com> (https://choco.gg/)",
+  "author": "Parker Hawke <hawkeboyz2@hotmail.com> (https://choco.gg)",
   "keywords": ["web", "website", "reactjs", "rocketleague", "rocket", "league", "swift", "freestyling"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/2008Choco/SwiFT-Website/"
+    "url": "https://github.com/2008Choco/SwiFT-Website"
   },
-  "bugs": "https://github.com/2008Choco/SwiFT-Website/issues/",
+  "bugs": "https://github.com/2008Choco/SwiFT-Website/issues",
   "license": "GPL-3.0",
   "private": true,
   "dependencies": {

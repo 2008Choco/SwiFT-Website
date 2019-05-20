@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import NavBarElementList from './NavBarElementList';
 
-import '../styles/nav.css'
+import '../styles/nav-footer.css'
 
 const logo = require("../assets/swift-logo.png");
 
