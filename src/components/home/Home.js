@@ -1,7 +1,7 @@
 import React from 'react'
+import ContactForm from './ContactForm';
 
 import '../../styles/Home.css';
-import '../../styles/landing-contact.css';
 
 export default function Home() {
   return (
@@ -11,14 +11,7 @@ export default function Home() {
         <p id="content">Welcome to the official Team SwiFT Website. Everything you need to know about us can be found without a hassle.</p>
       </div>
 
-      <div className="contact-container">
-        <p>Send us a message!</p>
-        <form className="contact-form">
-          <input type="text" name="name" placeholder="Name" required/>
-          <textarea name="description" placeholder="Your Message" required/>
-          <input type="submit" name="submit"/>
-        </form>
-      </div>
+      <ContactForm/>
     </div>
   );
 }
