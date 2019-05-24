@@ -1,6 +1,6 @@
 import React from 'react'
 
-import '../../styles/landing-contact.css';
+import '../../styles/contact.css';
 
 export default function ContactForm() {
   return (
