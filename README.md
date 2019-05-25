@@ -1,6 +1,6 @@
 # Official SwiFT Website
 
-![SwiFT Logo](assets/swift_logo.png)
+[<img src="assets/swift_logo.png">](https://www.youtube.com/channel/UCOkURq_NNFeVfhA6v5JfVCg)
 
 This repository hosts the source code of the website for a popular Rocket League team, [SwiFT Freestyling](https://www.youtube.com/channel/UCOkURq_NNFeVfhA6v5JfVCg).
 
